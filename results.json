@@ -1,0 +1,27 @@
+{
+  "portfolio_pnl": {
+    "sandbox_pnl": -5.84,
+    "backtest_pnl": -5.84,
+    "pnl_match": "PASS"
+  },
+  "alphas": {
+    "SMAAlpha": {
+      "trades": 2,
+      "pnl": -7.77,
+      "match": "PASS",
+      "analysis": ""
+    },
+    "BreakoutAlpha": {
+      "trades": 4,
+      "pnl": -3.34,
+      "match": "PASS",
+      "analysis": ""
+    },
+    "MTFTrendAlpha": {
+      "trades": 0,
+      "pnl": -6.4,
+      "match": "PASS",
+      "analysis": ""
+    }
+  }
+}
